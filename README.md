@@ -1,5 +1,5 @@
 # Analysing ESG report using Natural Language Processing
-## Updated by Jingjie Yeo: Tested to work on Anaconda Python 3.7 with MacOS Catalina
+## Updated by Jingjie Yeo to work on Anaconda Python 3.7 with MacOS Catalina
 
 ## Summary
 Environment, Social and Corporate Governance (ESG) refers to the three central factors in measuring the sustainability and societal impact of an investment in a company or business.  These criteria help to better determine the future financial performance of companies (return and risk).
