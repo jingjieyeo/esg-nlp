@@ -8,7 +8,7 @@ This analysis extracts text from a ESG report in PDF format from the internet, p
 
 To keep this exercise as simple as possible, only one ESG report is being used.  Specifically the [Citibank's 2019 ESG report](https://www.citigroup.com/citi/about/esg/download/2019/Global-ESG-Report-2019.pdf?ieNocache=967).
 
-An additional notebook is provided for analyzing sustainability reports by Cabot Corp.
+An additional notebook is provided for analyzing sustainability reports by [Cabot Corp](https://www.cabotcorp.com/responsibility/our-commitment).
 
 Given that ESG is a broad topic.  Different companies focus on different aspects of ESG depending on their business operations and culture.  One can potentially ingest more ESG reports from different companies across all sectors and industries to capture relevant ESG topics.  This to be attempted in another analysis.
 
