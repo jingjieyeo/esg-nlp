@@ -13,7 +13,8 @@ An additional notebook is provided for analyzing sustainability reports by [Cabo
 Given that ESG is a broad topic.  Different companies focus on different aspects of ESG depending on their business operations and culture.  One can potentially ingest more ESG reports from different companies across all sectors and industries to capture relevant ESG topics.  This to be attempted in another analysis.
 
 ## Notebook
-1. https://github.com/edgetrader/esg-nlp/blob/master/notebook/esg-report-analysis.ipynb
+1. https://github.com/jingjieyeo/esg-nlp/blob/master/notebook/esg-report-analysis.ipynb
+2. https://github.com/jingjieyeo/esg-nlp/blob/master/notebook/cabot-sustainability-report-analysis.ipynb
 
 ## Reference
 
